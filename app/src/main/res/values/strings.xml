@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Knowledge Quiz</string>
+    <string name="title">Quize your knowledge...!</string>
+    <string name="textview">TextView</string>
+    <string name="True">True</string>
+    <string name="Fulse">Fulse</string>
+    <string name="prev_button">prev_button</string>
+    <string name="next_button">next_button</string>
+    <string name="counter_text">0 out of 100.</string>
+    <string name="correct_answer">Correct.!</string>
+    <string name="wrong_answer">Wrong.!</string>
+</resources>
